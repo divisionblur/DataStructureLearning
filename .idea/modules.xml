@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00-A-TEST/00-A-TEST.iml" filepath="$PROJECT_DIR$/00-A-TEST/00-A-TEST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-leetcode/00-leetcode.iml" filepath="$PROJECT_DIR$/00-leetcode/00-leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-复杂度/01-复杂度.iml" filepath="$PROJECT_DIR$/01-复杂度/01-复杂度.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-动态数组/02-动态数组.iml" filepath="$PROJECT_DIR$/02-动态数组/02-动态数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-链表/03-链表.iml" filepath="$PROJECT_DIR$/03-链表/03-链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-栈/04-栈.iml" filepath="$PROJECT_DIR$/04-栈/04-栈.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-队列/05-队列.iml" filepath="$PROJECT_DIR$/05-队列/05-队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-二叉搜索树/06-二叉搜索树.iml" filepath="$PROJECT_DIR$/06-二叉搜索树/06-二叉搜索树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-平衡二叉搜索树/07-平衡二叉搜索树.iml" filepath="$PROJECT_DIR$/07-平衡二叉搜索树/07-平衡二叉搜索树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-红黑树/08-红黑树.iml" filepath="$PROJECT_DIR$/08-红黑树/08-红黑树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-哈希表/11-哈希表.iml" filepath="$PROJECT_DIR$/11-哈希表/11-哈希表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-堆/12-堆.iml" filepath="$PROJECT_DIR$/12-堆/12-堆.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-优先级队列/13-优先级队列.iml" filepath="$PROJECT_DIR$/13-优先级队列/13-优先级队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-trie/14-trie.iml" filepath="$PROJECT_DIR$/14-trie/14-trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-排序/16-排序.iml" filepath="$PROJECT_DIR$/16-排序/16-排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-并查集/17-并查集.iml" filepath="$PROJECT_DIR$/17-并查集/17-并查集.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-图/18-图.iml" filepath="$PROJECT_DIR$/18-图/18-图.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureLearning.iml" filepath="$PROJECT_DIR$/DataStructureLearning.iml" />
+    </modules>
+  </component>
+</project>
